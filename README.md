@@ -1,2 +1,2 @@
 # test-01
-test repo for bamboo integration
+test2 repo for bamboo integration
